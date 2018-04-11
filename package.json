@@ -1,0 +1,24 @@
+{
+  "name": "eltra",
+  "version": "1.0.0",
+  "description": "Electron & React & Webpack",
+  "main": "index.js",
+  "repository": "https://github.com/ottowan/eltra.git",
+  "author": "Ao Ottowan",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "lint": "eslint **/**.js"
+  },
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.11.1"
+  }
+}
