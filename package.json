@@ -11,7 +11,7 @@
     "lint": "eslint **/**.js"
   },
   "devDependencies": {
-    "electron": "^1.8.4",
+    "electron": "^7.2.4",
     "eslint": "^4.19.1",
     "eslint-config-google": "^0.9.1",
     "eslint-config-standard": "^11.0.0",
